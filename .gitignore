@@ -1,0 +1,8 @@
+*.suo
+.vs/
+[Bb]in/
+[Oo]bj/
+*.pdf
+*.exe
+*.bin
+*.obj
