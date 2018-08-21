@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
+// Mein Kommentar für den Workshop
 
 namespace PetManager {
     public class Person {
